@@ -4,6 +4,7 @@ import random
 from turtle import *
 
 def drawSquare (w):
+    
     """Using turtle graphics, draw a square centered at the origin.
     
     Params:
@@ -19,6 +20,7 @@ def drawSquare (w):
 
 
 def horizontalLine (x1, x2, y):
+    
     """Using turtle graphics, draw a horizontal line segment.
     
     Params:
@@ -35,6 +37,7 @@ def horizontalLine (x1, x2, y):
 
 
 def verticalLine (x, y1, y2):
+    
     """Using turtle graphics, draw a vertical line segment.
     
     Params:
@@ -50,6 +53,7 @@ def verticalLine (x, y1, y2):
     up ()
 
 def fillRect (q,r,s,t,c):
+    
     """Using turtle graphics, draw color-filled rectangle.
     
     Params:
@@ -73,6 +77,7 @@ def fillRect (q,r,s,t,c):
 
 
 def art (w):
+    
     """Using turtle graphics, create art in the style of Mondrian.
     
     Params: 
