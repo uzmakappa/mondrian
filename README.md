@@ -1,5 +1,6 @@
 # mondrian
 import random
+
 from turtle import *
 
 def drawSquare (w):
